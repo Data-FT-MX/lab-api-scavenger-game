@@ -3,7 +3,6 @@
 import time
 from github import Github
 
-#token = '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'
 
 github = Github(token)
 
